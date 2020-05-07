@@ -9,3 +9,7 @@ Note:
 You may assume that both strings contain only lowercase letters.
 
 - Number Complement: Given a positive integer, output its complement number. The complement strategy is to flip the bits of its binary representation.
+
+- First Unique Character in a String: Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
+
+- Majority Element: Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times. You may assume that the array is non-empty and the majority element always exist in the array.
